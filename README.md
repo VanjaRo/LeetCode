@@ -4,9 +4,9 @@
 
 | Status  |  #   |                                                                       Title                                                                       | **Difficulty** | Solution |
 | :-----: | :--: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :------: |
-| &#9745; | 228  |                                          [summary ranges](https://leetcode.com/problems/summary-ranges/)                                          |    **Easy**    | **nill** |
-| &#9745; | 443  |                                      [string compression](https://leetcode.com/problems/string-compression/)                                      |   **Medium**   | **nill** |
-| &#9745; | 206  |                                     [reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                                     |    **Easy**    | **nill** |
+| &#9745; | 228  |                                          [summary ranges](https://leetcode.com/problems/summary-ranges/)                                          |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/228.go) |
+| &#9745; | 443  |                                      [string compression](https://leetcode.com/problems/string-compression/)                                      |   **Medium**   | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/443.go) |
+| &#9745; | 206  |                                     [reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                                     |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/206.go) |
 | &#9744; |  22  |                                    [generate parentheses](https://leetcode.com/problems/generate-parentheses/)                                    |   **Medium**   | **nill** |
 | &#9744; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   | **nill** |
 | &#9744; | 283  |                                             [move zeroes](https://leetcode.com/problems/move-zeroes/)                                             |    **Easy**    | **nill** |
