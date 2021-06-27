@@ -11,31 +11,26 @@ func compress(chars []byte) int {
 	pivot := 0
 	for i := 1; i < len(chars); i++ {
 		if chars[i] != chars[i-1] {
+			chars[pivot] = chars[start]
+			pivot++
 			if start != end {
-				chars[pivot] = chars[start]
-				pivot++
 				for _, x := range fmt.Sprint(end - start + 1) {
 					chars[pivot] = byte(x)
 					pivot++
 				}
-			} else {
-				chars[pivot] = chars[start]
-				pivot++
 			}
 			start = i
 		}
 		end = i
 	}
+	chars[pivot] = chars[start]
+	pivot++
 	if start != end {
-		chars[pivot] = chars[start]
-		pivot++
 		for _, x := range fmt.Sprint(end - start + 1) {
 			chars[pivot] = byte(x)
 			pivot++
 		}
-	} else {
-		chars[pivot] = chars[start]
-		pivot++
 	}
+	start = i
 	return pivot
 }
