@@ -23,10 +23,3 @@ func longestOnes(nums []int, k int) int {
 	}
 	return windowEnd - windowStart
 }
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
