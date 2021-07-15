@@ -3,20 +3,22 @@ package main
 import "fmt"
 
 func main() {
-	arr := []int{4, 5, 0, -2, -3, 1}
-	fmt.Println(subarraysDivByK(arr, 5))
+	arr := []int{-1, 2, 9}
+	fmt.Println(subarraysDivByK(arr, 2))
 }
 
 func subarraysDivByK(nums []int, k int) int {
 	ret, rem, sum := 0, 0, 0
-	reminders := map[int]int{0: 1}
+	reminders := make([]uint16, k)
+	reminders[0] = 1
 	for _, x := range nums {
 		sum += x
 
 		rem = sum % k
-		if _, ok := reminders[rem]; ok {
-			ret += reminders[rem]
+		if rem < 0 {
+			rem += k
 		}
+		ret += int(reminders[rem])
 		reminders[rem]++
 	}
 	return ret
