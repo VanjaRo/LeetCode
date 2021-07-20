@@ -1,5 +1,7 @@
 # LeetCode tasks for Yandex
 
+## Challange Passed
+
 ### Rozhnovskiy Ivan 2021
 
 | Status  |  #   |                                                                       Title                                                                       | **Difficulty** |                                     Solution                                      |
@@ -53,4 +55,4 @@
 | &#9745; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/28.go)  |
 | &#9745; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/238.go)  |
 | &#9745; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/71.go)  |
-| &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/71.go)  |
+| &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/234.go)  |
