@@ -1,9 +1,5 @@
 # LeetCode tasks for Yandex
 
-## Challange Passed
-
-### Rozhnovskiy Ivan 2021
-
 | Status  |  #   |                                                                       Title                                                                       | **Difficulty** |                                     Solution                                      |
 | :-----: | :--: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------------------------------------------------------------------------: |
 | &#9745; | 228  |                                          [summary ranges](https://leetcode.com/problems/summary-ranges/)                                          |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/228.go)  |
@@ -27,7 +23,7 @@
 | &#9745; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/232.go)  |
 | &#9745; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/59.go)  |
 | &#9745; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/1004.go) |
-| &#9745; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/1004.go) |
+| &#9745; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/42.go)  |
 | &#9745; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/3.go)   |
 | &#9745; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/2.go)   |
 | &#9745; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/21.go)  |
@@ -56,3 +52,9 @@
 | &#9745; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/238.go)  |
 | &#9745; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   |  [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/71.go)  |
 | &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/234.go)  |
+
+# LeetCode tasks for practice
+
+| Status  |  #  |                               Title                               | **Difficulty** |                                    Solution                                    |
+| :-----: | :-: | :---------------------------------------------------------------: | :------------: | :----------------------------------------------------------------------------: |
+| &#9744; |  7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/7.go) |
